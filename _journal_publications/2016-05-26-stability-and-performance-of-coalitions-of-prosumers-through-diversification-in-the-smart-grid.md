@@ -8,7 +8,9 @@ energy market, and are more resilient to random failures of the agents.'
 date: 2018-03-01
 venue: '2018 IEEE Transactions on Smart Grid (Volume: 9, Issue: 2, March 2018)'
 paperurl: 'http://nicolasgensollen.github.io/files/stability-and-performance-of-coalitions-of-prosumers-through-diversification-in-the-smart-grid.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+arxivurl: 'https://arxiv.org/abs/1705.06130'
+doi: 'https://doi.org/10.1109/TSG.2016.2572302'
+bibtexurl: 'http://nicolasgensollen.github.io/files/stability-and-performance-of-coalitions-of-prosumers-through-diversification-in-the-smart-grid.tex' 
 ---
 
 

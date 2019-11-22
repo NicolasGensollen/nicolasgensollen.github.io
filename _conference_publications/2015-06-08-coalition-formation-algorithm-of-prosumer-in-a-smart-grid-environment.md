@@ -6,8 +6,10 @@ excerpt: 'In a smart grid environment, we study the coalition formation of prosu
 uncorrelated sources of energy to form a coalition. We propose an algorithm that uses graph tools such as correlation graphs or clique percolation to form coalitions that meet such complex constraints. We validate the algorithm against a random procedure and show that, it not only performs better in terms of social welfare for the power grid, but also that it is more robust against unforeseen production variations due to changing weather conditions for instance.'
 date: 2015-06-08
 venue: '2015 IEEE International Conference on Communications (ICC)'
-paperurl: 'http://academicpages.github.io/files/coalition-formation-algorithm-of-prosumers-in-a-smart-grid-environment.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://nicolasgensollen.github.io/files/coalition-formation-algorithm-of-prosumers-in-a-smart-grid-environment.pdf'
+arxivurl: 'https://arxiv.org/abs/1410.8776'
+doi: 'https://doi.org/10.1109/ICC.2015.7249262'
+bibtexurl: 'http://nicolasgensollen.github.io/files/coalition-formation-algorithm-of-prosumers-in-a-smart-grid-environment.tex' 
 ---
 
 
