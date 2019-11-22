@@ -193,6 +193,9 @@ collections:
   journal_publications:
     output: true
     permalink: /:collection/:path/
+  thesis:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

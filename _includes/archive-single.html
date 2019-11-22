@@ -53,9 +53,11 @@
     {% endif %}
     
     {% if post.paperurl and post.arxivurl and post.doi%}
-    <p>Download: <a href="{{ post.paperurl }}"><u>PDF</u></a>   <a href="{{ post.arxivurl }}"><u>ArXiv</u></a>   <a href="{{ post.doi }}"><u>{{ post.doi }}</u></a></p>
+    <p>Download: <a href="{{ post.paperurl }}"><u>PDF</u></a>      <a href="{{ post.arxivurl }}"><u>ArXiv</u></a>      <a href="{{ post.doi }}"><u>{{ post.doi }}</u></a></p>
     {% elsif post.paperurl and post.doi %}
-    <p>Download: <a href="{{ post.paperurl }}"><u>PDF</u></a>   <a href="{{ post.doi }}"><u>{{ post.doi }}</u></a></p>
+    <p>Download: <a href="{{ post.paperurl }}"><u>PDF</u></a>      <a href="{{ post.doi }}"><u>{{ post.doi }}</u></a></p>
+    {% elsif post.paperurl and post.arxivurl %}
+    <p>Download: <a href="{{ post.paperurl }}"><u>PDF</u></a>      <a href="{{ post.arxivurl }}"><u>ArXiv</u></a></p>
     {% elsif post.paperurl %}
     <p>Download: <a href="{{ post.paperurl }}"><u>PDF</u></a></p>
     {% endif %}

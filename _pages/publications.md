@@ -6,26 +6,27 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  <p>You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u></p>
 {% endif %}
 
 {% include base_path %}
 
-
-
-Articles published in international journals
-======
+## Articles published in international journals
 
 {% for post in site.journal_publications reversed %}
    {% include archive-single.html %}
 {% endfor %}
 
-
-Articles published in international conferences
-======
-
+## Articles published in international conferences
 
 {% for post in site.conference_publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+## Other publications
+
+### PhD thesis
+
+{% for post in site.thesis reversed %}
+  {% include archive-single.html %}
+{% endfor %}
