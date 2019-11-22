@@ -86,7 +86,7 @@ author:
   location         : "Paris, France"
   employer         : "Sorbonne University - LIP6"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=4UsQKiwAAAAJ&hl=fr"
   email            : "nicolas.gensollen@lip6.fr"
   researchgate     : "https://www.researchgate.net/profile/Nicolas_Gensollen"
   uri              :
