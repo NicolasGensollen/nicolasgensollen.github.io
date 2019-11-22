@@ -12,6 +12,15 @@ author_profile: true
 {% include base_path %}
 
 
+
+Articles published in international journals
+======
+
+{% for post in site.journal_publications reversed %}
+   {% include archive-single.html %}
+{% endfor %}
+
+
 Articles published in international conferences
 ======
 
@@ -19,3 +28,4 @@ Articles published in international conferences
 {% for post in site.conference_publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
