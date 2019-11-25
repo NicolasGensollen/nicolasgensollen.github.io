@@ -14,7 +14,7 @@ You can download my resume as a PDF file:
 * [Academic version](tba)
 * [Short version](tba)
 
-  
+Or you can view it online here:
 
 # Education
 
@@ -87,6 +87,53 @@ You can download my resume as a PDF file:
 * __Duties__: Building a simulation and optimization tool for the optical fiber deployment in the Seine-et-Marne region.
 * __Supervisor__: [Ariel Turpin](https://fr.linkedin.com/in/ariel-turpin-78b50929)
   
+
+
+# Publications
+ 
+## International conferences
+
+ <ul>{% for post in site.conference_publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## International journals
+
+  <ul>{% for post in site.journal_publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+  
+
+# Talks
+  
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+  
+
+# Teaching
+  
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
+# Open source main contributions
+
+  <ul>{% for post in site.open_source %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+  
+
+# Administrative responsibilities 
+
+## 2019
+
+* In charge of organising the seminars for the Complex Networks team at LIP6.
+
   
 
 # Skills
@@ -153,40 +200,3 @@ Here is a non-exhaustive selection of my favorite tools:
   * Synergi
   * DEW
 
-  
-
-# Publications
- 
-## International conferences
-
- <ul>{% for post in site.conference_publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## International journals
-
-  <ul>{% for post in site.journal_publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-&nbsp  
-
-# Talks
-  
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
-
-# Teaching
-  
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-
-# Service and leadership
-
-* Currently signed in to 43 different slack teams

@@ -196,6 +196,9 @@ collections:
   thesis:
     output: true
     permalink: /:collection/:path/
+  open_source:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
