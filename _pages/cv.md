@@ -9,23 +9,77 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my resume as a PDF file:
+
+* [Academic version](tba)
+* [Short version](tba)
+
 # Education
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Ph.D in Computer Science, 2016
+  
+* __Delivered by__: Telecom SudParis, Evry, France
+* Scholarship awarded by the *Pierre and Marie Curie University* (UPMC, now *Sorbonne University*)
+* __Supervisors__: Michel Marot, Monique Becker, Vincent Gauthier
+* __Defense date__: October 7th 2016
+* __Defense jury__:
+  * [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/), LIP6, president
+  * [André-Luc Beylot](http://irt.enseeiht.fr/beylot/), ENSEEIHT, rapporteur
+  * [Jean-Guy Caputo](http://lmi2.insa-rouen.fr/~jgcaputo/), INSA Rouen, rapporteur
+  * [Frederica Darema](https://www.af.mil/About-Us/Biographies/Display/Article/108635/dr-frederica-darema/), AFSOR
+  * [Slawomir Pietrasz](https://fr.linkedin.com/in/slawomir-pietrasz-89a73a5/de), ENGIEE
+  * [Michel Marot](http://www-public.imtbs-tsp.eu/~marot/), Telecom SudParis
+  * [Monique Becker](https://www.researchgate.net/profile/Monique_Becker), Telecom SudParis
+  * [Vincent Gauthier](https://complex.luxbulb.org/), [Telecom SudParis](https://www.telecom-sudparis.eu/)
+
+## Engineer degree in Telecommunications, 2012
+  
+* __Delivered by__: Telecom SudParis, Evry, France
+* __Last year option__: Services and Infrastructure convergence (CSI)
+* __Supervisors__: Laurent Bernard, Eric Gangloff
+
+## Baccalauréat, 2007
+
+* __Delivered by__: Lycée Richelieu, Rueil Malmaison, France
+* __Option__: Scientific (S)
+* __Honnor__: *Très Bien*
+
+# Current Position
+
+## December 2018 - Now: Postdoctoral researcher
+  
+* __Workplace__: [Sorbonne University](http://www.sorbonne-universite.fr/) ([LIP6](https://www.lip6.fr/), UMR 7606), Paris, France
+* __Team__: [Complex Networks](http://www.complexnetworks.fr/)
+* __Research focus__: Designing anomaly detection methods for large streams of interactions
+* __Supervisor__: [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/)
 
 # Work experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## March 2017 - November 2018: Postdoctoral researcher
+  
+* __Workplace__: [National Renewable Energy Laboratory](https://www.nrel.gov/) (NREL), Golden, Colorado, USA
+* __Team__: [Power Systems Design and Studies](https://www.nrel.gov/grid/power-systems-design-studies.html)
+* __Research focus__: Designing methods and tools to optimize the deployment of renewable energy ressources in distribution systems
+* __Supervisors__: [Bri-Mathias Hodge](https://www.colorado.edu/faculty/hodge/), [Bryan Palmintier](http://bryan.palmintier.net/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## October 2013 - October 2016: Moniteur (special PhD student status with a teaching load)
+  
+* __Workplace__: [Sorbonne University](http://www.sorbonne-universite.fr/), Paris, France
+* __Teaching load__: 192 hours (see *Teaching* section)
+
+## November 2012 - September 2013: Research engineer
+  
+* __Workplace__: [Telecom SudParis](https://www.telecom-sudparis.eu/) ([SAMOVAR](http://samovar.telecom-sudparis.eu/?lang=fr), UMR 5157), Saclay, France
+* __Team__: [METHODES](http://samovar.telecom-sudparis.eu/spip.php?rubrique128&lang=fr)
+* __Research focus__: Smart Grids, Complex Networks
+* __Supervisor__: [Michel Marot](http://www-public.imtbs-tsp.eu/~marot/), Monique Becker, [Vincent Gauthier](https://complex.luxbulb.org/)
+
+## July 2011 - January 2012: Intern
+  
+* __Workplace__: [Conseil Général de la Seine-et-Marne](https://www.seine-et-marne.fr/) (CG77), Melun, France
+* __Team__: *Aménagement du Territoire*
+* __Duties__: Building a simulation and optimization tool for the optical fiber deployment in the Seine-et-Marne region.
+* __Supervisor__: [Ariel Turpin](https://fr.linkedin.com/in/ariel-turpin-78b50929)
   
 # Skills
 
