@@ -14,35 +14,39 @@ You can download my resume as a PDF file:
 * [Academic version](tba)
 * [Short version](tba)
 
+  
+
 # Education
 
 ## Ph.D in Computer Science, 2016
   
-* __Delivered by__: Telecom SudParis, Evry, France
-* Scholarship awarded by the *Pierre and Marie Curie University* (UPMC, now *Sorbonne University*)
+* __Delivered by__: [Telecom SudParis](https://www.telecom-sudparis.eu/), Evry, France
+* __Scholarship__: Awarded by the *Pierre and Marie Curie University* (UPMC, now *Sorbonne University*)
 * __Supervisors__: Michel Marot, Monique Becker, Vincent Gauthier
 * __Defense date__: October 7th 2016
 * __Defense jury__:
-  * [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/), LIP6, president
-  * [André-Luc Beylot](http://irt.enseeiht.fr/beylot/), ENSEEIHT, rapporteur
-  * [Jean-Guy Caputo](http://lmi2.insa-rouen.fr/~jgcaputo/), INSA Rouen, rapporteur
+  * [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/), LIP6, *president*
+  * [André-Luc Beylot](http://irt.enseeiht.fr/beylot/), ENSEEIHT, *rapporteur*
+  * [Jean-Guy Caputo](http://lmi2.insa-rouen.fr/~jgcaputo/), INSA Rouen, *rapporteur*
   * [Frederica Darema](https://www.af.mil/About-Us/Biographies/Display/Article/108635/dr-frederica-darema/), AFSOR
   * [Slawomir Pietrasz](https://fr.linkedin.com/in/slawomir-pietrasz-89a73a5/de), ENGIEE
   * [Michel Marot](http://www-public.imtbs-tsp.eu/~marot/), Telecom SudParis
   * [Monique Becker](https://www.researchgate.net/profile/Monique_Becker), Telecom SudParis
-  * [Vincent Gauthier](https://complex.luxbulb.org/), [Telecom SudParis](https://www.telecom-sudparis.eu/)
+  * [Vincent Gauthier](https://complex.luxbulb.org/), Telecom SudParis
 
 ## Engineer degree in Telecommunications, 2012
   
-* __Delivered by__: Telecom SudParis, Evry, France
+* __Delivered by__: [Telecom SudParis](https://www.telecom-sudparis.eu/), Evry, France
 * __Last year option__: Services and Infrastructure convergence (CSI)
-* __Supervisors__: Laurent Bernard, Eric Gangloff
+* __Supervisors__: Laurent Bernard, [Eric Gangloff](https://fr.linkedin.com/in/eric-gangloff-b19720aa)
 
 ## Baccalauréat, 2007
 
 * __Delivered by__: Lycée Richelieu, Rueil Malmaison, France
 * __Option__: Scientific (S)
 * __Honnor__: *Très Bien*
+
+  
 
 # Current Position
 
@@ -52,6 +56,8 @@ You can download my resume as a PDF file:
 * __Team__: [Complex Networks](http://www.complexnetworks.fr/)
 * __Research focus__: Designing anomaly detection methods for large streams of interactions
 * __Supervisor__: [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/)
+
+  
 
 # Work experience
 
@@ -81,14 +87,73 @@ You can download my resume as a PDF file:
 * __Duties__: Building a simulation and optimization tool for the optical fiber deployment in the Seine-et-Marne region.
 * __Supervisor__: [Ariel Turpin](https://fr.linkedin.com/in/ariel-turpin-78b50929)
   
+  
+
 # Skills
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Languages
+
+* __French__: Native speaker
+* __English__: Professional
+* __German__: Coversational level
+
+## Technical skills
+
+### Programming languages
+
+* Scripting
+  * Python
+  * Julia
+  * Matlab
+
+* Web
+  * HTML/CSS
+  * PHP
+  * JavaScript
+
+* Others
+  * C/C#
+  * Visual Basics
+  * LaTeX
+
+### Tools
+
+Here is a non-exhaustive selection of my favorite tools:
+
+* Continuous integration and testing
+  * Git/GitHub/GitLab
+  * Travis/CodeCov/PyTest
+
+* Databases
+  * MySQL
+  * PostgreSQL/PostGIS
+  * MongoDB
+  * SQLAlchemy
+
+* Machine Learning
+  * Scikit-learn
+  * TensorFlow
+  * PyTorch
+
+* Graphs
+  * NetworkX
+  * NetworKit
+  * LightGraphs.jl
+  * Gephi
+
+* Performance and parallel computing
+  * Dask
+  * Spark
+  * Moab
+  * TORQUE
+
+* Power System Modeling
+  * OpenDSS
+  * CYME
+  * Synergi
+  * DEW
+
+  
 
 # Publications
  
@@ -104,18 +169,24 @@ You can download my resume as a PDF file:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+&nbsp  
+
 # Talks
   
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+  
+
 # Teaching
   
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
+
 # Service and leadership
 
 * Currently signed in to 43 different slack teams
