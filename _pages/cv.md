@@ -122,6 +122,13 @@ This page provides an online version on my resume. In addition, you can download
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+# Supervised students
+
+* __Lester Padilla__
+  * *Paris-Saclay University and Versailles St-Quentin-en-Yvelines University, April 2016 - September 2016*
+  * Master thesis: Reconstructing the European Power Grid from OpenstreetMap data
+  * Co-supervised with Vincent Gauthier
   
 
 # Open source main contributions
