@@ -13,7 +13,7 @@ bibtexurl: 'http://nicolasgensollen.github.io/files/beyond-hosting-capacity-usin
 
 # Beyond Hosting Capacity: Using Shortest-Path Methods to Minimize Upgrade Cost Pathways
 
-*Published in IEEE Journal of Photovoltaics (Volume: 9, Issue: 4, July 2019)*
+*Published in IEEE Journal of Photovoltaics (Volume: 9, Issue: 4, July 2019) and presented at the 7th World Conference on Photovoltaic Energy Conversion (WCPEC-7), in Waikoloa, HI, USA, in June 2018*
 
 ## Abstract
 
