@@ -202,6 +202,9 @@ collections:
   open_source:
     output: true
     permalink: /:collection/:path/
+  internships:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

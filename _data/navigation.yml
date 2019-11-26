@@ -10,7 +10,10 @@ main:
     url: /teaching/  
 
   - title: "Open Source"
-    url: /open_source/  
+    url: /open_source/ 
+
+  - title: "Internships"
+    url: /internships/ 
     
   - title: "Portfolio"
     url: /portfolio/
