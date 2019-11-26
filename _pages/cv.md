@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my resume as a PDF file:
+This page provides an online version on my resume. In addition, you can download my resume as a PDF file in two different formats:
 
 * [Academic version](tba)
 * [Short version](tba)
-
-Or you can view it online here:
 
 # Education
 

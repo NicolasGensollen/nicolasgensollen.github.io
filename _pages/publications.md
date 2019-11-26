@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% if author.googlescholar %}
-  <p>You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u></p>
-{% endif %}
+This page gathers my main publications divided in categories (*Preprints*, *Articles published in international journals*, *Articles published in international conferences*, and *other publications*).
+
+You can also find my articles on my [Google Scholar profile](https://scholar.google.fr/citations?user=4UsQKiwAAAAJ&hl=fr).
 
 ## Preprints
 
