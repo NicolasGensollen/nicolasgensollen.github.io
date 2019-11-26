@@ -91,19 +91,19 @@ This page provides an online version on my resume. In addition, you can download
 
 ## Preprints
 
-  <ul>{% for post in site.preprints %}
+  <ul>{% for post in site.preprints reversed %}
       {% include archive-single-cv.html %}
     {% endfor %}</ul>
  
 ## International conferences
 
- <ul>{% for post in site.conference_publications %}
+ <ul>{% for post in site.conference_publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## International journals
 
-  <ul>{% for post in site.journal_publications %}
+  <ul>{% for post in site.journal_publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -169,7 +169,7 @@ This page provides an online version on my resume. In addition, you can download
 
 ### Tools
 
-Here is a non-exhaustive selection of my favorite tools:
+Here is a non-exhaustive selection of my favorite tools and packages:
 
 * Continuous integration and testing
   * Git/GitHub/GitLab

@@ -14,6 +14,8 @@ bibtexurl: 'http://nicolasgensollen.github.io/files/modeling-and-optimizing-a-di
 
 # Modeling and optimizing a distributed power network : a complex system approach of the prosumer management in the smart grid
 
+*Defended on October 7th 2016 at Sorbonne University, Paris, France*
+
 ## Abstract
 
 This thesis is devoted to the study of agents called prosumers because they can, from renewable, both produce and consume electricity. If their production exceeds their own needs, they are looking to sell their surplus on electricity markets. We propose to model these prosumers from meteorological data, which has allowed us to highlight non trivial spatial and temporal correlations. This is of great importance for aggregators that form portfolios of equipments to sell services to the network
