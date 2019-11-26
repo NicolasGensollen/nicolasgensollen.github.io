@@ -90,6 +90,12 @@ Or you can view it online here:
 
 
 # Publications
+
+## Preprints
+
+  <ul>{% for post in site.preprints %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
  
 ## International conferences
 
