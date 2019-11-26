@@ -113,7 +113,7 @@ Or you can view it online here:
 
 # Talks
   
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -121,14 +121,14 @@ Or you can view it online here:
 
 # Teaching
   
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
 # Open source main contributions
 
-  <ul>{% for post in site.open_source %}
+  <ul>{% for post in site.open_source reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
@@ -138,7 +138,7 @@ Or you can view it online here:
 
 ## 2019
 
-* In charge of organising the seminars for the Complex Networks team at LIP6.
+* In charge of organising the seminars for the *Complex Networks* team at LIP6.
 
   
 
