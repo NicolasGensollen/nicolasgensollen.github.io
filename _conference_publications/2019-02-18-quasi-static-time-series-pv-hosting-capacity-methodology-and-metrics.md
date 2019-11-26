@@ -14,6 +14,8 @@ bibtexurl: 'http://nicolasgensollen.github.io/files/quasi-static-time-series-pv-
 
 # Quasi-Static Time-Series PV Hosting Capacity Methodology and Metrics
 
+*Presented at the 2019 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), Washington DC, USA*
+
 ## Abstract
 
 Distributed photovoltaic systems (DPV) can cause adverse grid impacts, including voltage or thermal violations. The installed capacity at which violations first occur and above which would require system upgrades is called the hosting capacity. Current methods for determining hosting capacity tend to be conservative by either only considering infrequent worst-case snapshots in time and/or only capturing coarse time and spatial resolution. Additionally, current hosting capacity methods do

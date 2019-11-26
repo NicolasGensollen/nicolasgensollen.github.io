@@ -13,6 +13,8 @@ bibtexurl: 'http://nicolasgensollen.github.io/files/beyond-hosting-capacity-usin
 
 # Beyond Hosting Capacity: Using Shortest-Path Methods to Minimize Upgrade Cost Pathways
 
+*Published in IEEE Journal of Photovoltaics (Volume: 9, Issue: 4, July 2019)*
+
 ## Abstract
 
 This paper presents a graph-based forward looking algorithm applied to distribution planning in the context of distributed photovoltaic penetration. We study the target hosting capacity problem where the objective is to find the least-cost sequence of system upgrades to reach a predefined hosting capacity target value. We show that commonly used short-term cost minimization approaches often lead to suboptimal long-term solutions. By comparing our method against such myopic techniques on real

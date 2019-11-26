@@ -14,6 +14,8 @@ bibtexurl: 'http://nicolasgensollen.github.io/files/submodular-optimization-for-
 
 # Submodular optimization for control of prosumer networks
 
+*Presented at the 2016 IEEE International Conference on Smart Grid Communications (SmartGridComm), Sydney, Australia*
+
 ## Abstract
 
 We propose here a control based method for improving the storage placement in a prosumer network where generators and loads are stochastic. The particularity of our approach is to use the energy required for stabilizing the system as a criterion for the optimization of the storage placement. We use a linearized AC model for the dynamic of the system and we consider the control inputs as being the amount of power injected in the grid by the batteries. Because a prosumer may both consume and

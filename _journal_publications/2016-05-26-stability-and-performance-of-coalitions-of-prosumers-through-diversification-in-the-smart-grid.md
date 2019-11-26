@@ -15,6 +15,8 @@ bibtexurl: 'http://nicolasgensollen.github.io/files/stability-and-performance-of
 
 # Stability and Performance of Coalitions of Prosumers Through Diversification in the Smart Grid
 
+*Published in IEEE Transactions on Smart Grid (Volume: 9, Issue: 2, March 2018)*
+
 ## Abstract
 
 In the context of the smart grid, we propose in this paper an algorithm that forms coalitions of agents, called prosumers, that both produce and consume. It is designed to be used by aggregators that aim at selling aggregated surplus of production of the prosumers they control. We rely on real weather data sampled across stations of a given territory in order to simulate realistic production and consumption patterns for each prosumer. This enables us to capture geographical correlations among
