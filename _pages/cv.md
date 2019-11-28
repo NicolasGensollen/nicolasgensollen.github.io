@@ -12,7 +12,7 @@ redirect_from:
 This page provides an online version on my resume. In addition, you can download my resume as a PDF file in two different formats:
 
 * [Academic version](tba)
-* [Short version](tba)
+* [Short version](https://nicolasgensollen.github.io/files/short-resume-nicolas-gensollen.pdf)
 
 # Education
 
