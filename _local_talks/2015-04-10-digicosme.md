@@ -1,8 +1,8 @@
 ---
 title: "Coalition formation in a smart grid environment"
-collection: talks
+collection: local_talks
 type: "Talk"
-permalink: /talks/2015-04-10-talk-3
+permalink: /talks/2015-04-10-digicosme
 venue: "Nano-Innov, Digicosme Seminar"
 date: 2015-04-10
 location: "Saclay, France"

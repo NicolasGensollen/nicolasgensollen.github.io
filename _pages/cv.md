@@ -114,11 +114,18 @@ This page provides an online version on my resume. In addition, you can download
   
 
 # Talks
+
+## International talks
   
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.international_talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+## Seminars and Workshops
+
+  <ul>{% for post in site.local_talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>  
   
 
 # Teaching

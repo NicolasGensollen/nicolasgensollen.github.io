@@ -184,7 +184,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  international_talks:
+    output: true
+    permalink: /:collection/:path/
+  local_talks:
     output: true
     permalink: /:collection/:path/
   conference_publications:
