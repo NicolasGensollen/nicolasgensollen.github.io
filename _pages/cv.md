@@ -52,16 +52,22 @@ This page provides an online version on my resume. In addition, you can download
 
 # Current Position
 
-## December 2018 - Now: Postdoctoral researcher
+## November 2020 - Now: Research Engineer
+  
+* __Workplace__: [INRIA](https://www.inria.fr/fr), Saclay, France
+* __Team__: [PARIETAL](https://team.inria.fr/parietal/)
+* __Research focus__: Developement and maintenance of statistical learning softwares for NeuroImaging.
+* __Supervisor__: [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/)
+
+
+# Work experience
+
+## December 2018 - October 2020: Postdoctoral researcher
   
 * __Workplace__: [Sorbonne University](http://www.sorbonne-universite.fr/) ([LIP6](https://www.lip6.fr/), UMR 7606), Paris, France
 * __Team__: [Complex Networks](http://www.complexnetworks.fr/)
 * __Research focus__: Designing anomaly detection methods for large streams of interactions
 * __Supervisor__: [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/)
-
-  
-
-# Work experience
 
 ## March 2017 - November 2018: Postdoctoral researcher
   
@@ -152,6 +158,10 @@ This page provides an online version on my resume. In addition, you can download
 
 # Administrative responsibilities 
 
+## 2020
+
+* In charge of organising the seminars for the *Complex Networks* team at LIP6.
+
 ## 2019
 
 * In charge of organising the seminars for the *Complex Networks* team at LIP6.
@@ -181,7 +191,7 @@ This page provides an online version on my resume. In addition, you can download
   * JavaScript
 
 * Others
-  * C/C#
+  * C/C++/C#
   * Visual Basics
   * LaTeX
 
