@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicolas Gensollen"
   avatar           : "profile.png"
-  bio              : "Postdoctoral reasearcher in the Complex Networks team, at LIP6, Paris"
-  location         : "Paris, France"
-  employer         : "Sorbonne University - LIP6"
+  bio              : "Research Engineer in the PARIETAL team, at INRIA, Saclay"
+  location         : "Saclay, France"
+  employer         : "INRIA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4UsQKiwAAAAJ&hl=fr"
-  email            : "nicolas.gensollen@lip6.fr"
+  email            : "nicolas.gensollen@inria.fr"
   researchgate     : "https://www.researchgate.net/profile/Nicolas_Gensollen"
   uri              :
   bitbucket        :
