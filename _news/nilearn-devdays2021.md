@@ -6,8 +6,6 @@ permalink: /news/nilearn-devdays2021
 date: 2021-05-07
 ---
 
-**Coding sprint**
-
 We organize an international coding sprint from **May 5th 2021** to **May 7th 2021** around [Nilearn](https://nilearn.github.io/) and [Nibabel](https://nipy.org/nibabel/), two open source tools written in Python and dedicated to neuroimaging.
 
 Nilearn enables approachable and versatile analyses of brain volumes. It provides statistical and machine-learning tools, with instructive documentation & friendly community.
