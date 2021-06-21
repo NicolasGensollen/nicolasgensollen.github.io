@@ -169,13 +169,20 @@ This page provides an online version on my resume. In addition, you can download
 
 # Administrative responsibilities 
 
+## 2021
+
+* Organization of the [Nilearn dev-days 2021](https://nilearn.github.io/dev-days-2021/).
+
 ## 2020
 
 * In charge of organising the seminars for the *Complex Networks* team at LIP6.
+* Reviewer for the journal [Theoretical Computer Science](https://www.journals.elsevier.com/theoretical-computer-science).
 
 ## 2019
 
 * In charge of organising the seminars for the *Complex Networks* team at LIP6.
+* Reviewer for the journal [Computer Communications](https://www.journals.elsevier.com/computer-communications).
+* Reviewer for the conference [TMA 2019](https://tma.ifip.org/2019/), Paris, France.
 
   
 ----------
