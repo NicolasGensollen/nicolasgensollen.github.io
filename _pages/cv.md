@@ -18,6 +18,8 @@ This page provides an online version on my resume. In addition, you can download
   * [English](https://nicolasgensollen.github.io/files/short-resume-english-nicolas-gensollen.pdf)
   * [French](tba) *Currently not available...*
 
+----------
+
 # Education
 
 ## Ph.D in Computer Science, 2016
@@ -49,6 +51,7 @@ This page provides an online version on my resume. In addition, you can download
 * __Honnor__: *Très Bien*
 
   
+----------
 
 # Current Position
 
@@ -59,6 +62,7 @@ This page provides an online version on my resume. In addition, you can download
 * __Research focus__: Developement and maintenance of statistical learning softwares for NeuroImaging.
 * __Supervisor__: [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/)
 
+----------
 
 # Work experience
 
@@ -96,6 +100,7 @@ This page provides an online version on my resume. In addition, you can download
 * __Supervisor__: [Ariel Turpin](https://fr.linkedin.com/in/ariel-turpin-78b50929)
   
 
+----------
 
 # Publications
 
@@ -118,6 +123,7 @@ This page provides an online version on my resume. In addition, you can download
   {% endfor %}</ul>
 
   
+----------
 
 # Talks
 
@@ -133,12 +139,15 @@ This page provides an online version on my resume. In addition, you can download
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>  
   
+----------
 
 # Teaching
   
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+----------
 
 # Supervised students
 
@@ -147,6 +156,7 @@ This page provides an online version on my resume. In addition, you can download
   * Master thesis: Reconstructing the European Power Grid from OpenstreetMap data
   * Co-supervised with Vincent Gauthier
   
+----------
 
 # Open source main contributions
 
@@ -155,6 +165,7 @@ This page provides an online version on my resume. In addition, you can download
   {% endfor %}</ul>
 
   
+----------
 
 # Administrative responsibilities 
 
@@ -167,6 +178,7 @@ This page provides an online version on my resume. In addition, you can download
 * In charge of organising the seminars for the *Complex Networks* team at LIP6.
 
   
+----------
 
 # Skills
 
@@ -175,6 +187,8 @@ This page provides an online version on my resume. In addition, you can download
 * __French__: Native speaker
 * __English__: Professional
 * __German__: Coversational level
+
+----------
 
 ## Technical skills
 
@@ -194,6 +208,8 @@ This page provides an online version on my resume. In addition, you can download
   * C/C++/C#
   * Visual Basics
   * LaTeX
+
+----------
 
 ### Tools
 
