@@ -55,16 +55,22 @@ This page provides an online version on my resume. In addition, you can download
 
 # Current Position
 
-## November 2020 - Now: Research Engineer
+## February 2022 - Now: Research Engineer
+  
+* __Workplace__: [INRIA](https://www.inria.fr/fr), Paris, France
+* __Team__: [SED of INRIA Paris](https://sed.paris.inria.fr), [ARAMIS](https://www.aramislab.fr)
+* __Research focus__: INRIA permanent software engineer. Currently working in the [ARAMIS](https://www.aramislab.fr) team on the developement and maintenance of softwares for NeuroImaging.
+
+----------
+
+# Work experience
+
+## November 2020 - January 2022: Research Engineer
   
 * __Workplace__: [INRIA](https://www.inria.fr/fr), Saclay, France
 * __Team__: [PARIETAL](https://team.inria.fr/parietal/)
 * __Research focus__: Developement and maintenance of statistical learning softwares for NeuroImaging.
 * __Supervisor__: [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/)
-
-----------
-
-# Work experience
 
 ## December 2018 - October 2020: Postdoctoral researcher
   
