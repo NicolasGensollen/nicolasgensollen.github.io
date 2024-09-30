@@ -9,14 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-This page provides an online version on my resume. In addition, you can download my resume as a PDF file in two different formats:
+This page provides an online version on my resume. In addition, you can download my resume as a PDF file:
 
-* __Academic version__
-  * [English](tba) *Currently not available...*
-  * [French](https://nicolasgensollen.github.io/files/academic-resume-french-nicolas-gensollen.pdf)
-* __Short version__
-  * [English](https://nicolasgensollen.github.io/files/short-resume-english-nicolas-gensollen.pdf)
-  * [French](tba) *Currently not available...*
+* [English](https://nicolasgensollen.github.io/files/short-resume-english-nicolas-gensollen.pdf)
+* [French](https://nicolasgensollen.github.io/files/short-resume-french-nicolas-gensollen.pdf)
 
 ----------
 
@@ -191,73 +187,3 @@ This page provides an online version on my resume. In addition, you can download
 * Reviewer for the conference [TMA 2019](https://tma.ifip.org/2019/), Paris, France.
 
   
-----------
-
-# Skills
-
-## Languages
-
-* __French__: Native speaker
-* __English__: Professional
-* __German__: Coversational level
-
-----------
-
-## Technical skills
-
-### Programming languages
-
-* Scripting
-  * Python
-  * Julia
-  * Matlab
-
-* Web
-  * HTML/CSS
-  * PHP
-  * JavaScript
-
-* Others
-  * C/C++/C#
-  * Visual Basics
-  * LaTeX
-
-----------
-
-### Tools
-
-Here is a non-exhaustive selection of my favorite tools and packages:
-
-* Continuous integration and testing
-  * Git/GitHub/GitLab
-  * Travis/CodeCov/PyTest
-
-* Databases
-  * MySQL
-  * PostgreSQL/PostGIS
-  * MongoDB
-  * SQLAlchemy
-
-* Machine Learning
-  * Scikit-learn
-  * TensorFlow
-  * PyTorch
-
-* Graphs
-  * NetworkX
-  * NetworKit
-  * LightGraphs.jl
-  * Gephi
-
-* Performance and parallel computing
-  * Dask
-  * Spark
-  * Moab
-  * TORQUE
-
-* Power System Modeling
-  * OpenDSS
-  * CYME
-  * Synergi
-  * DEW
-
