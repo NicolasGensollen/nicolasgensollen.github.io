@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "Gensollen_N"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Nicolas Gensollen"
   avatar           : "profile.png"
   bio              : "Research engineer at INRIA Paris"
-  location         : "Paris, France"
+  location         :
   employer         : "INRIA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4UsQKiwAAAAJ&hl=fr"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Gensollen_N"
+  twitter          :
   vine             :
   weibo            :
   xing             :
