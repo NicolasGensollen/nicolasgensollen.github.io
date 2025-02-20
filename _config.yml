@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nicolas Gensollen"
   avatar           : "profile.png"
-  bio              : "Research engineer at INRIA Paris"
+  bio              : "Research engineer at Inria"
   location         :
-  employer         : "INRIA"
+  employer         : "Inria"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4UsQKiwAAAAJ&hl=fr"
   email            : "nicolas.gensollen@inria.fr"
