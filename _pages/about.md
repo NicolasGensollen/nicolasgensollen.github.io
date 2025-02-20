@@ -27,5 +27,4 @@ I obtained my PhD in October 2016, at [Telecom SudParis](https://www.telecom-sud
 
 During my PhD I was teaching at the Paris 6 University various courses from networking to algorithmic.
 
-You can find more details in my [CV](https://nicolasgensollen.github.io/cv/).
-
+You can find more details in my [CV](https://nicolasgensollen.github.io/files/nicolas-gensollen-french.pdf)
