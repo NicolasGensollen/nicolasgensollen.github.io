@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research engineer at the [Inria](https://www.inria.fr/fr) [Paris center](https://www.inria.fr/en/centre-inria-de-paris), in France. I belong to the [Service Experimentation and Development](https://sed.paris.inria.fr/service/), a service dedicated to providing technical support to the research teams of the institute. One component of this support is a direct involvement in the engineering projects of research teams. Another component is a constant technological watch and experimentation in order to keep cutting-edge tooling and best practices in the research teams. To that end, I organize regular training sessions for researchers, engineers, or PhD students.
+I am currently a research engineer at the [Inria](https://www.inria.fr/fr) [Paris center](https://www.inria.fr/en/centre-inria-de-paris), in France. I belong to the [Service Experimentation and Development](https://sed.paris.inria.fr/service/), a service dedicated to providing technical support to the research teams of the institute.
 
-Since february 2022, I am working mostly in the [ARAMIS team](https://www.aramislab.fr/) located at the [Paris Brain Institute](https://icm-institute.org/en/mission-en/) (ICM). Part of my work is dedicated to maintaining and developing neuro-science tools from the team, like [Clinica](https://www.clinica.run/), [ClinicaDL](ihttps://clinicadl.readthedocs.io/en/latest/), or [Leaspy](https://leaspy.readthedocs.io/en/stable/).
+One component of this support is a direct involvement in the engineering projects of research teams. Another component is a constant technological watch and experimentation in order to keep cutting-edge tooling and best practices in the research teams. To that end, I organize regular training sessions for researchers, engineers, or PhD students.
+
+Since february 2022, I am working mostly in the [ARAMIS team](https://www.aramislab.fr/) located at the [Paris Brain Institute](https://icm-institute.org/en/mission-en/). Part of my work is dedicated to leading open source projects of the team, like [Clinica](https://www.clinica.run/), [ClinicaDL](ihttps://clinicadl.readthedocs.io/en/latest/), or [Leaspy](https://leaspy.readthedocs.io/en/stable/).
 
 Before joining the Paris center, I was a research engineer in the [PARIETAL](https://team.inria.fr/parietal/research/) team at the [Saclay center](https://www.inria.fr/en/inria-saclay-centre) of [Inria](https://www.inria.fr/fr). I was mainly working on developping and maintaining neuro-science and machine learning softwares like [Nilearn](https://github.com/nilearn/nilearn).
 
